@@ -44,6 +44,13 @@ Average length of stay is calculated with AVERAGEX over patients that have both 
 ## Skills demonstrated
 
 Power Query preparation · star-schema modelling and relationship design in Power BI · DAX measures and KPIs · time intelligence with a calendar table · report design for operational stakeholders.
+## Files in this repository
+
+| File | What it is |
+| --- | --- |
+| `hospital-operations.pbix` | The Power BI file: queries, model and measures |
+| `project-workflow.docx` | The full project workflow write-up |
+
 
 ---
 
